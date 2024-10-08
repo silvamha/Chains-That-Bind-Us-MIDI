@@ -1,0 +1,16 @@
+{
+  "name": "chains-that-bind-us",
+  "version": "1.0.0",
+  "description": "MIDI Chord Progression Generic",
+  "main": "createMidi.js",
+  "type": "module",    "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ed Silva",
+  "license": "ISC",
+  "dependencies": {
+    "midi-writer-js": "^3.1.1",
+    "scribbletune": "^5.0.2"
+  },
+  "devDependencies": {}
+}
